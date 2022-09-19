@@ -1,15 +1,11 @@
 #Website with just HTML about Kylie's Cookbook. Home page with links to about and contact page.
 
-
-
-
-
-
-
-
-
-
-
+# 
+# 
+# 
+# 
+# 
+# 
 
 
 
