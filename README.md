@@ -1,3 +1,18 @@
+#Website with just HTML about Kylie's Cookbook. Home page with links to about and contact page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Semantic HTML and basic navigation
 
 Create an HTML page using semantic markup. Include a navigation menu that links to two subpages.
